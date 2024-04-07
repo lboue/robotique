@@ -2,6 +2,8 @@
 
 ## Robot roues omnidirectionnelles
 
+* [Robot roues omnidirectionnelles](robot_mecanum/README.md)
+
 ## BBC micro:bit
 
 ### Robots Freenove
